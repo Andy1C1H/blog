@@ -1,0 +1,27 @@
+---
+title: "About Me"
+image: me.png
+about:
+  template: jolla
+  links:
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/my-orcid?orcid=0009-0000-2447-724X 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/Andy1C1H 
+    - icon: mail
+      text: Email
+      href: andrea.c.heaney@mytudublin.ie 
+---
+
+My name is Andrea Heaney, and I am a Ph.D. student currently based in TU Dublin, Ireland. I am funded by the Science Foundation of Ireland, specifically their Centre for Research Training in Machine Learning, aka ML-Labs.
+
+My undergraduate degree was in Physics with Biomedical Sciences at Dublin City University. Here I developed my love of science, medicine/medical conditions, problem-solving, and maths. I was eventually introduced to programming and later machine learning then deep learning. I saw great potential to combine my interests in medicine, problem-solving, and maths with my newfound interest in machine learning to work towards becoming a researcher like I have always wanted.
+
+I am currently in the first year of my Ph.D. and looking at applying machine learning to women's health. What that will involve is still up for debate. At the moment, I am working on developing my research question, which requires an extensive literature review while also getting firsthand information from key stakeholders and improving my programming skills.
+
+I am passionate about seeing underrepresented people in STEM and ensuring science research is accessible and understandable to anyone willing/wanting to avail of it. I also have an interest in Human Centered Design and believe it is vital for any technological based solution to be designed and suitable for the people who will use it and that these people should be involved in the design process.

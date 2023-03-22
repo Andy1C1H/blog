@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/First post/index.html",
+    "href": "posts/First post/index.html",
+    "title": "My first actual post",
+    "section": "",
+    "text": "This is my actual first post on quarto so let us see how it works.\nI really love cats. This is an image I made using mid-journey.\nlink https://bootswatch.com/vapor/\n!image"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "andy1c1h_blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nMar 22, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nMy first actual post\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 19, 2023\n\n\nAndrea Heaney\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nMar 19, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "My name is Andrea Heaney, and I am a Ph.D. student currently based in TU Dublin, Ireland. I am funded by the Science Foundation of Ireland, specifically their Centre for Research Training in Machine Learning, aka ML-Labs.\nMy undergraduate degree was in Physics with Biomedical Sciences at Dublin City University. Here I developed my love of science, medicine/medical conditions, problem-solving, and maths. I was eventually introduced to programming and later machine learning then deep learning. I saw great potential to combine my interests in medicine, problem-solving, and maths with my newfound interest in machine learning to work towards becoming a researcher like I have always wanted.\nI am currently in the first year of my Ph.D. and looking at applying machine learning to women’s health. What that will involve is still up for debate. At the moment, I am working on developing my research question, which requires an extensive literature review while also getting firsthand information from key stakeholders and improving my programming skills.\nI am passionate about seeing underrepresented people in STEM and ensuring science research is accessible and understandable to anyone willing/wanting to avail of it. I also have an interest in Human Centered Design and believe it is vital for any technological based solution to be designed and suitable for the people who will use it and that these people should be involved in the design process."
+  }
+]

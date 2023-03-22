@@ -1,0 +1,16 @@
+---
+title: "My first actual post"
+author: "Andrea Heaney"
+date: "2023-03-19"
+email: andrea.c.heaney@mytudublin.ie
+categories: [news]
+image: nerd_cat.png
+---
+
+This is my actual first post on quarto so let us see how it works.
+
+I really love cats. This is an image I made using mid-journey.
+
+link https://bootswatch.com/vapor/
+
+!image
